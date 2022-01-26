@@ -9,7 +9,7 @@ int main()
 		if (a>c)
 		{
 		printf("max=%d",a);
-	    }
+	        }
 		else 
 		// a<c
 		{
